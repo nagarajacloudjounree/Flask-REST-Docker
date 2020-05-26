@@ -17,12 +17,12 @@ def get_timestamp():
 # Data to serve with our API
 MESSAGE = {
     1: {
-        "message": "Hi,                 Note: This is default Messge",
+        "message": "Hi,                 Note: This is default Message",
         "id": 1,
         "timestamp": get_timestamp(),
     },
     2: {
-        "message": "Hello,              Note: This is default Messge",
+        "message": "Hello,              Note: This is default Message",
         "id": 2,
         "timestamp": get_timestamp(),
     }
